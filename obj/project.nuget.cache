@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "axxeTtKN34GvhOJKmhD10R9RI4Au0XJnB1UmPKkM6iRAwrj28fNHCAaunVivtF92sZT3D0UlsWuY8o5/xQbi5A==",
+  "success": true,
+  "projectFilePath": "/Users/andrazrudman/NalogaDotnet/NalogaDotnet.csproj",
+  "expectedPackageFiles": [
+    "/Users/andrazrudman/.nuget/packages/json.net/1.0.33/json.net.1.0.33.nupkg.sha512",
+    "/Users/andrazrudman/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
